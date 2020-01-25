@@ -10,3 +10,7 @@ h1, .page-header{
 h2{
   text-align: center;
 }
+
+.post-form{
+  margin-left: 20px;
+}
