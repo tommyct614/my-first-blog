@@ -1,0 +1,12 @@
+.blocky{
+  margin: 10rem;
+}
+
+h1, .page-header{
+  text-align: center;
+  font-family: Lobster;
+}
+
+h2{
+  text-align: center;
+}
